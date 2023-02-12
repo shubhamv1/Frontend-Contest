@@ -1,0 +1,41 @@
+nav {
+    position: absolute;
+width: 1728px;
+height: 87px;
+left: 0px;
+top: 0px;
+    background-color: hsl(0, 0%, 0%);
+}
+.p{
+    position: absolute;
+width: 180px;
+height: 29px;
+left: 38px;
+top: 29px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+    .button {
+        border:square;
+        color: rgb(255, 255, 255);
+        padding: 10px 28px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        background-color: hsl(0, 0%, 0%);
+      }
+      
+
+      
